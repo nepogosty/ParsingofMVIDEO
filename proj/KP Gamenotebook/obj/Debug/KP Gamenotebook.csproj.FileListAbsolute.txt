@@ -1,0 +1,22 @@
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\KP Gamenotebook.exe.config
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\KP Gamenotebook.exe
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\KP Gamenotebook.pdb
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\AngleSharp.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\EntityFramework.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\AngleSharp.xml
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\EntityFramework.xml
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.csprojAssemblyReference.cache
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP_Gamenotebook.Form1.resources
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP_Gamenotebook.Properties.Resources.resources
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.csproj.GenerateResource.cache
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.csproj.CoreCompileInputs.cache
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.csproj.CopyComplete
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.exe
+C:\Users\ReaLBERG\source\repos\KP Gamenotebook\KP Gamenotebook\obj\Debug\KP Gamenotebook.pdb
